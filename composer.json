@@ -1,13 +1,14 @@
 {
-    "name": "bigenergy/laravel-blade-sortable",
+    "name": "jmagdev/laravel-blade-sortable",
     "description": "Custom Blade components to add sortable/drag-and-drop HTML elements in your apps (support laravel 9+)",
     "keywords": [
         "asantibanez",
         "laravel-blade-sortable",
         "bigenergy",
-        "laravel-blade-sortable-updated"
+        "laravel-blade-sortable-updated",
+        "jmagdev"
     ],
-    "homepage": "https://github.com/asantibanez/laravel-blade-sortable",
+    "homepage": "https://github.com/jmagdev/laravel-blade-sortable-updated",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -24,11 +25,11 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^7.0|^8.0|^9.0|^10.0"
+        "illuminate/support": "^7.0|^8.0|^9.0|^10.0|^11.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^5.0|^6.0|^8.0",
-        "phpunit/phpunit": "^8.0|^9.0"
+        "orchestra/testbench": "^5.0|^6.0|^8.0|^9.0",
+        "phpunit/phpunit": "^8.0|^9.0|^10"
     },
     "autoload": {
         "psr-4": {
